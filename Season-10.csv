@@ -3,7 +3,7 @@ Season,Episode,Character,Line
 "
 10,1,Kyle,"Going away? For how long?
 "
-10,1,Sta,"Forever.
+10,1,Stan,"Forever.
 "
 10,1,Chef,"I'm sorry boys.
 "
@@ -451,7 +451,7 @@ Season,Episode,Character,Line
 "
 10,1,Chef,"I can't... break these locks. 
 "
-10,1,Kyl,"Here! 
+10,1,Kyle,"Here! 
 "
 10,1,Cartman,"Run Chef!
 "
@@ -1143,6 +1143,8 @@ Come on, everybody be people now
 "
 10,3,Tom,"The news has already sparked a shockwave of protests throughout the Muslim world.  All over the Middle East, Muslims are burning American flags and Family Guy posters. Muslim terrorist al-Zawahri made this statement:
 "
+10,3,al-Zawahri,"We are so super pissed off at 'Family Guy'. 'Family Guy' isn't even that funny of a show. A jihad on 'Family Guy', and the 'Family Guy' nation!
+"
 10,3,Linda,"So what happens now?
 "
 10,3,Randy,"We stay here through the night, wait it out to see if they do anything. If we're still alive in the morning,  then we'll know we're not dead.
@@ -1175,15 +1177,9 @@ Come on, everybody be people now
 "
 10,3,Peter,"You think that's bad? Remember when I auditioned to be David Hasselhoff's car? 
 "
-10,3,Peter,"You think that's bad? Remember when I auditioned to be David Hasselhoff's car? 
-Peter:
-Hey there, Knight Rider. 
+10,3,Peter,"Hey there, Knight Rider. 
 "
-10,3,Peter,"You think that's bad? Remember when I auditioned to be David Hasselhoff's car? 
-Peter:
-Hey there, Knight Rider. 
-Michael:
-After those bad guys, KITT! 
+10,3,Michael,"After those bad guys, KITT! 
 "
 10,3,Chris,"Yeah, but Dad, why would you invite an ex-girlfriend to dinner?
 "
@@ -1191,23 +1187,11 @@ After those bad guys, KITT!
 "
 10,3,Peter,"Nervous? Like when I had to sell pancakes to the school soccer captain? 
 "
-10,3,Peter,"Nervous? Like when I had to sell pancakes to the school soccer captain? 
-Peter:
-Pancakes for you, Captain?
+10,3,Peter,"Pancakes for you, Captain?
 "
-10,3,Peter,"Nervous? Like when I had to sell pancakes to the school soccer captain? 
-Peter:
-Pancakes for you, Captain?
-Soccer Captain:
-I'll be the Captain, and you'll be Tenille. 
+10,3,Soccer Captain,"I'll be the Captain, and you'll be Tenille. 
 "
-10,3,Peter,"Nervous? Like when I had to sell pancakes to the school soccer captain? 
-Peter:
-Pancakes for you, Captain?
-Soccer Captain:
-I'll be the Captain, and you'll be Tenille. 
-Peter:
-Love will keep us together
+10,3,Peter,"Love will keep us together
 "
 10,3,Kyle,"Hehaha, heh.
 "
@@ -1219,15 +1203,9 @@ Love will keep us together
 "
 10,3,Brian,"You mean like the time you had tea with Mohammad, the prophet of the Muslim faith? 
 "
-10,3,Brian,"You mean like the time you had tea with Mohammad, the prophet of the Muslim faith? 
-Peter:
-Come on, Mohammad, let's get some tea. 
+10,3,Peter,"Come on, Mohammad, let's get some tea. 
 "
-10,3,Brian,"You mean like the time you had tea with Mohammad, the prophet of the Muslim faith? 
-Peter:
-Come on, Mohammad, let's get some tea. 
-Mr. T:
-Try my ""Mr. T. ...tea."" 
+10,3,Mr. T,"Try my ""Mr. T. ...tea."" 
 "
 10,3,Peter,"Oh boy, was that ever weird. Anyway, I can't believe I invited my old sweetheart to dinner. Huh.
 "
@@ -1298,6 +1276,8 @@ Try my ""Mr. T. ...tea.""
 10,3,Randy,"FAMILY GUY!!!  I DAMN YOU TO HELL!!!
 "
 10,3,SNN Anchor,"Once again, bitter riots have started in the Middle East; this time, even more massive. And terrorist leader al-Zawahri has issued a threat
+"
+10,3,al-Zawahri,"Seriously, 'Family Guy' isn't even that well written. The jokes are all interchangeable and usually irrelevant to the plot. When this episode airs-our retaliation will be MASSIVE!!!!
 "
 10,3,Mr. Mackey,"Retaliation... Oh my God. M'kay?
 "
@@ -2021,7 +2001,7 @@ Try my ""Mr. T. ...tea.""
 "
 10,5,Towelie,"Aw man, I really screwed up this time. The rent's due at the end of the month, and I don't have any money. I need to shape up and find a new job, quick.  But first, maybe I'll get a little high.  Wait. Here it goes. Good ideas comin'. Yeah. Hey yeah! I should become a writer! If I just write a book about my life, I can get it published and then make plenty of money to pay rent.
 "
-10,5,Toweli,"A MILLION LITTLE FIBERS
+10,5,Towelie,"A MILLION LITTLE FIBERS
 By
 Toweleeeie
 This is a really good idea...

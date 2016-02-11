@@ -549,7 +549,7 @@ It's totally gay!
 "
 3,1,Miss Stevens,"Oh God, this is a nightmare! We're never going to make the festival!
 "
-3,1,Sta,"Hey, look over there. Isn't that smoke? 
+3,1,Stan,"Hey, look over there. Isn't that smoke? 
 "
 3,1,Miss Stevens,"Let's go, quickly! 
 "
@@ -1253,9 +1253,9 @@ It's totally gay! It's totally gay!
 "
 3,2,Townsman 1,"We want answers!
 "
-3,2,Townsman ,"You've killed us all!
+3,2,Townsman 2,"You've killed us all!
 "
-3,2,Townsman ,"Someone's got to pay!
+3,2,Townsman 3,"Someone's got to pay!
 "
 3,2,Woman,"It's out of control.
 "
@@ -1363,7 +1363,7 @@ It's totally gay! It's totally gay!
 "
 3,2,Randy,"All right. Now, let's get to work.
 "
-3,2,"You And Me, Gir","I've been telling everybody that you're my girl Cause I'm not one to be shy You don't have to go with me if you don't want to, just Tell everybody I'm your guy You and me, girl, it's foreverSha la la la la laaaI've been telling everybody that you're my girl,Cause I'm not one to be shy I've been telling everybody that you're my girl,Cause I'm not one to be shy You don't have to go with me if you don't want to, justTell everybody I'm your guy You and me, girl, it's foreverSha la la la la laaaYou and me, girl, forever and everYou and me, girl, forever and everYou and me, girl, forever and ever... 
+3,2,"You And Me, Girl","I've been telling everybody that you're my girl Cause I'm not one to be shy You don't have to go with me if you don't want to, just Tell everybody I'm your guy You and me, girl, it's foreverSha la la la la laaaI've been telling everybody that you're my girl,Cause I'm not one to be shy I've been telling everybody that you're my girl,Cause I'm not one to be shy You don't have to go with me if you don't want to, justTell everybody I'm your guy You and me, girl, it's foreverSha la la la la laaaYou and me, girl, forever and everYou and me, girl, forever and everYou and me, girl, forever and ever... 
 "
 3,2,Stan,"Dad. Dad! 
 "
@@ -1673,7 +1673,7 @@ if we can hold on to the night
 "
 3,3,Cartman,"I can't! They're stapled to my head!  I hate you guys.
 "
-3,3,Receptionist,"Hello and welcome to Steinburg &amp; Burgstein. Can I help you?
+3,3,Receptionist,"Hello and welcome to Steinburg & Burgstein. Can I help you?
 "
 3,3,Stan,"We wanna talk to Chef.
 "
@@ -2512,7 +2512,7 @@ night-
 "
 3,4,Clyde,"Uh, how long do you expect the fight to last?
 "
-3,4,Crai,"I uh...
+3,4,Craig,"I uh...
 "
 3,4,Cartman,"However long Craig wants it to last.  T'heh, ub. Look, make no mistake. Craig has been ready for this fight since day one. He doesn't even view it as a challenge.
 "
@@ -5384,7 +5384,7 @@ Well... mm-Rumpertumskin.
 "
 3,8,Reporter,"We just received a photo from the recon team of the action inside the house  showing evidence that there are indeed innocent children trapped inside. Those sick cult fanatic bastards!
 "
-3,8,Stan:,"Dude!
+3,8,Stan,"Dude!
 "
 3,8,Butters,"Hey, uhour parents aren't religious fantastics. Why, we gotta tell them that they're makin' an awful mistake, don't we?
 "
@@ -6182,11 +6182,11 @@ Well... mm-Rumpertumskin.
 "
 3,9,Squirt leader,"Elder Schwartz, I lost the Squirts! I lost all the Squirts!  Well, screw you too! I don't need your Chutzpah badge anyway! Hello? 
 "
-3,9,Elder Schwart,"Shlomo, get us out of here!
+3,9,Elder Schwartz,"Shlomo, get us out of here!
 "
 3,9,Shlomo,"What the geez?  What are you guys doing in there?
 "
-3,9,Elder Schwart,"Get the keys and unlock the door! 
+3,9,Elder Schwartz,"Get the keys and unlock the door! 
 "
 3,9,Schlomo,"What?!
 "
@@ -7368,7 +7368,7 @@ Well... mm-Rumpertumskin.
 "
 3,11,Cartman,"Ey! I'm the leader of Earth!
 "
-3,11,Sta,"Screw you, Cartman! I called leader first!
+3,11,Stan,"Screw you, Cartman! I called leader first!
 "
 3,11,Cartman,"Well, you can call leader 'til your ass bleeds, but that doesn't make it true! 
 "
@@ -8539,7 +8539,7 @@ My spirit goes]
 "
 3,13,Rebecca,"""Littoral.""  L I T O R A L
 "
-3,13,Mayo,"Correct!
+3,13,Mayor,"Correct!
 "
 3,13,Kyle,"Wow! 
 "
@@ -11228,7 +11228,7 @@ For auld lang syne...
 "
 3,17,Mr. Garrison,"Okay children, we've still got some time to practice the song before we load up the bus and head out for Oklahoma.
 "
-3,17,Class:,"Awww.
+3,17,Class,"Awww.
 "
 3,17,Mr. Garrison,"Now, come on, there's gonna be over 4 million third-graders from all over the country there, and I wanna make sure South Park is the best! Okay?!  Recorders up.  And a-1 and a-2 and a-  ""...of liberty."" You're late!  ""...my father-"" What the hell was that?!  God-damnit, I don't think you children have been working on your fingering!
 "
@@ -11818,7 +11818,7 @@ For auld lang syne...
 "
 3,17,Mr. Garrison Sr.,"I didn't do squat!  Here you go, a hundred bucks. 
 "
-3,17,Kenny G,"Oh, that's okay. Keep your money. Thanks. 
+3,17,Kenny G.,"Oh, that's okay. Keep your money. Thanks. 
 "
 3,17,Announcer,"Live, from Oklahoma City!  Four million third-grade students  from all over the country  playing ""My Country 'Tis Of Thee"" on their recorders... ""MY COUNTRY 'TIS OF THEE"" special.
 "

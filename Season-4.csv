@@ -1,7 +1,7 @@
 Season,Episode,Character,Line
 4,1,Butters,"Wuh-okay! You guys ready up there!?
 "
-4,1,Sledder,"Ready!
+4,1,Sledders,"Ready!
 "
 4,1,Butters,"On your marks! Get set! Uh-go! 
 "
@@ -213,7 +213,7 @@ Season,Episode,Character,Line
 "
 4,1,Kyle,"Don't worry, dude. That little truck just runs on D batteries. It's gonna run out of juice soon. 
 "
-4,1,Cartman:,"We're gonna make it, Kenny! We're gonna make it to Mexico!  Oh, God dammit! 
+4,1,Cartman,"We're gonna make it, Kenny! We're gonna make it to Mexico!  Oh, God dammit! 
 "
 4,1,Stan,"Hello?
 "
@@ -661,7 +661,8 @@ Season,Episode,Character,Line
 "
 4,1,Girl in Pink,"G'aaaaah! 
 "
-4,1,Bear,Rowr. 
+4,1,Bear,"Rowr.
+"
 4,1,Boy Sledders,"Hooray!
 "
 4,1,Stan,"We did it!
@@ -3825,7 +3826,7 @@ I'm gonna make love to y'Amanda in about ten years!
 "
 4,6,NAMBLA Leader,"Fellow NAMBLA members, it is great to see you all here. It seems like we have finally found a city that won't oppress us.
 "
-4,6,NAMBLA Membe,"Oh, yeah. 
+4,6,NAMBLA Member,"Oh, yeah. 
 "
 4,6,NAMBLA Leader,"First and foremost, I wanna recognize Eric Cartman, for putting us in touch with all of you pretty, young boys.
 "
@@ -5390,7 +5391,7 @@ from over 200 strands of Cherokee hair and then bound together with these decora
 "
 4,8,Wendy,"Hahaha.  Stan. Stan, wait up! 
 "
-4,9,Announce,"Tonight, Stellar Productions presents the boy band of the decade!  It's Fingerbang, live from Madison Square Gardens! 
+4,9,Announcer,"Tonight, Stellar Productions presents the boy band of the decade!  It's Fingerbang, live from Madison Square Gardens! 
 "
 4,9,Fingerbang,"Fingerbang!
 Bang-bang!
@@ -5529,7 +5530,7 @@ One on a teacher on a palm tree
 "
 4,9,Cartman,"Not the next song, the next PERSON!  Aw, man, this is gonna be a long-ass day. 
 "
-4,9,Cartma,"Oh no! Nononononono! Sorry, Wendy, this tryouts for a boy band! 
+4,9,Cartman,"Oh no! Nononononono! Sorry, Wendy, this tryouts for a boy band! 
 "
 4,9,Stan,"Aw, come on, dude. Let her try.
 "
@@ -8456,19 +8457,19 @@ To Third Grade
 "
 4,13,Cartman,"Dude, you can't just ask to be somebody's friend and be their friend; it doesn't work that way. If you want to be my friend, you'll have to pay me.
 "
-4,13,Bil,"Oh, I see. Alright, I'll pay 100 geliga stones-- Uh, I mean, human dollars! Eugh, I mean dollars!
+4,13,Bill,"Oh, I see. Alright, I'll pay 100 geliga stones-- Uh, I mean, human dollars! Eugh, I mean dollars!
 "
 4,13,Cartman,"Okay, that's cool.
 "
-4,13,Bil,"Can we play some human tetherball?
+4,13,Bill,"Can we play some human tetherball?
 "
 4,13,Cartman,"A-alright. Pretty sweet, you guys, getting a hundred bucks to play tetherball with some-- 
 "
-4,13,Bil,"Serve! 
+4,13,Bill,"Serve! 
 "
 4,13,Cartman,"Ugh..! 
 "
-4,13,Bil,"Got it!
+4,13,Bill,"Got it!
 "
 4,13,Cartman,"Ey!
 "
@@ -8494,7 +8495,7 @@ To Third Grade
 "
 4,13,Flora,"Okay.
 "
-4,13,Boy #,"Flora, just say you vote for Filmore so we can all go home.
+4,13,Boy #2,"Flora, just say you vote for Filmore so we can all go home.
 "
 4,13,Flora,"Um...
 "
@@ -8974,7 +8975,7 @@ To Third Grade
 "
 4,14,Butters,"They got Pilgrim outfits! And Indian ones, too! They've got singing and dancing and boy you've never seen such a show! Why, it's a Thanksgiving extravaganza!
 "
-4,14,Clyd,"Oh, no!
+4,14,Clyde,"Oh, no!
 "
 4,14,Kyle,"We can't be outdone by the kindergartners!
 "
@@ -9133,7 +9134,7 @@ Their daughter's deaf and mute and blind as a bat, and her parents can't even te
 "
 4,14,Bebe,"Her feathers are beautiful.
 "
-4,14,Clyd,"That's the prettiest turkey I ever saw.
+4,14,Clyde,"That's the prettiest turkey I ever saw.
 "
 4,14,Lamond,"Of course she is! 
 "
@@ -9387,7 +9388,7 @@ I think our baby's deaf and blind. Oh no!
 "
 4,14,Timmy,"Gobbles!! 
 "
-4,14,Cartma,"Were is Timmy?! He's on in one minute!
+4,14,Cartman,"Were is Timmy?! He's on in one minute!
 "
 4,14,Kyle,"He's gone, dude! Butters says he saw him leave.
 "
@@ -9625,7 +9626,7 @@ Everywhere an Indian, Indian. Uh thank, thank-
 "
 4,15,Cartman,"No.
 "
-4,15,Taller Bo,"My mom says I ain't to eat no candy here. I'm s'psoed to lose weight.
+4,15,Taller Boy,"My mom says I ain't to eat no candy here. I'm s'psoed to lose weight.
 "
 4,15,Rick,"Alright! Everybody's here and that means we can get down to business! Over the next few weeks we're gonna learn that losing weight is  fun, right gang?
 "
@@ -9683,9 +9684,9 @@ Everywhere an Indian, Indian. Uh thank, thank-
 "
 4,15,Kenny,"(Ungh.) 
 "
-4,15,Kids around Kenny:,"AAAAA!
+4,15,Kids around Kenny,"AAAAA!
 "
-4,15,Kids around Timmy:,"Waugh.
+4,15,Kids around Timmy,"Waugh.
 "
 4,15,Kyle,"Kick ass, dude!
 "
@@ -10017,7 +10018,7 @@ They all trade somethin' for sex and they do it well.
 "
 4,15,Campers,"Woo-aagh.
 "
-4,15,Rick..,"And down to the ground. 
+4,15,Rick...,"And down to the ground. 
 "
 4,15,Campers,"Woo-ugh.
 "
@@ -10025,7 +10026,7 @@ They all trade somethin' for sex and they do it well.
 "
 4,15,Campers,"Woo-aagh. 
 "
-4,15,Rick..,"And down to the ground. 
+4,15,Rick...,"And down to the ground. 
 "
 4,15,Campers,"Woo-ugh. 
 "
